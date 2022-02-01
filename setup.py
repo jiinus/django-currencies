@@ -56,7 +56,7 @@ setup(
         'django>=1.8',
         'jsonfield>=1.0.3,<3.0.0',
         'requests>=2.14.2',
-        'bs4',
+        'beautifulsoup4',
     ],
 
     description='Adds support for multiple currencies as a Django application.',
